@@ -3,3 +3,5 @@
   publish = "dist"
 [build.environment]
   NODE_VERSION = "10"
+  GRIDSOME_SHOPIFY_STOREFRONT = "foo"
+  GRIDSOME_SHOPIFY_STOREFRONT_TOKEN = "bar"
